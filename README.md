@@ -84,16 +84,16 @@ Or on Ubuntu:
 
 
 ## Screenshots
-input :"ਜਦੋਂ ਗੁਰੂ ਸਾਹਿਬ ਨੇ ਇਕ ਤੀਰ ਚਲਾਇਆ ਤਾਂ ਹਾਥੀ ਉਸ ਤੀਰ ਨੂੰ ਚੁਕ ਕੇ ਲਿਆਇਆ ।"
-![App Screenshot](https://github.com/dldiscomt/DL-DiscoNER-Punjabi/blob/main/picture/pubpicture-1.jpg?raw=true)
+input :"டெல்லி: இந்தியாவைச் சுற்றிப் பார்க்க வரும் வெளிநாட்டினர், இங்குப் பல இடங்களைச் சுற்றிப் பார்ப்பார்கள்."
+![App Screenshot](https://github.com/dldiscomt/DL-DiscoNER-Tamil/blob/main/picture/tampicture-1.jpg?raw=true)
 
 
-input :"ਰਤਨ ਰਾਏ ਚੱਕ ਨਾਨਕੀ ਵਿਚ ਏਨਾ ਖੁਸ਼ ਸੀ ਕਿ ਉਸਦਾ ਵਾਪਿਸ ਤ੍ਰਿਪੁਰਾ ਜਾਣ ਨੂੰ ਦਿਲ ਨਹੀਂ ਕਰਦਾ ਸੀ ।"
-![App Screenshot ](https://github.com/dldiscomt/DL-DiscoNER-Punjabi/blob/main/picture/pubpicture-2.jpg?raw=true)
+input :"இந்தியா என்றால் அவர்கள் ஒன்றை நினைத்திருப்பார்கள்."
+![App Screenshot ](https://github.com/dldiscomt/DL-DiscoNER-Tamil/blob/main/picture/tampicture-2.jpg?raw=true)
 
 
-input :"ਅਖ਼ੀਰ ਪੰਜ ਮਹੀਨੇ ਬੀਤ ਜਾਣ ਮਗਰੋਂ ਗੁਰੂ ਸਾਹਿਬ ਨੇ ਉਸਨੂੰ ਆਖਿਆ ਕਿ ਉਹ ਵਾਪਿਸ ਤ੍ਰਿਪੁਰਾ ਜਾ ਕੇ ਆਪਣੀ ਰਿਆਸਤ ਦੀ ਵਾਗ-ਡੋਰ ਸੰਭਾਲੇ ।"
-![App Screenshot](https://github.com/dldiscomt/DL-DiscoNER-Punjabi/blob/main/picture/pubpicture-3.jpg?raw=true)
+input :"உக்ரைன் ரஷ்யா இடையேயான போர் ஒரு பக்கம் முடியாமல் தொடர்ந்து வருகிறது."
+![App Screenshot](https://github.com/dldiscomt/DL-DiscoNER-Tamil/blob/main/picture/tampicture-3.jpg?raw=true)
 
 
 
