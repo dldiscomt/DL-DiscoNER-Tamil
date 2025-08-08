@@ -7,15 +7,14 @@
 
 Download the model from the provided drive link: 
 
-   [https://drive.google.com/drive/folders/1C4FaTs7akmbpoDhvrUj9fWAQOAJq8Qms?usp=sharing](https://drive.google.com/drive/folders/1C4FaTs7akmbpoDhvrUj9fWAQOAJq8Qms?usp=sharing)
+   [https://drive.google.com/drive/folders/1yUbzy5c43-Y7zAIEynSDs7y31VchJkbo?usp=sharing](https://drive.google.com/drive/folders/1yUbzy5c43-Y7zAIEynSDs7y31VchJkbo?usp=sharing)
 
 Alternatively, you can use the following command:
 
 ```bash
 pip install gdown
 
-gdown --folder https://drive.google.com/drive/folders/1C4FaTs7akmbpoDhvrUj9fWAQOAJq8Qms?usp=sharing
-
+gdown --folder https://drive.google.com/drive/folders/1yUbzy5c43-Y7zAIEynSDs7y31VchJkbo?usp=sharing
 ```
 * The download path, we will consider as **"basePath"** in this readme
 
